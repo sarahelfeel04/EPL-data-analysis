@@ -1,2 +1,2 @@
 # data-analysis
-This repository includes all my data analysis projects. I will be adding the jupyter notebooks as well as python source code. My first project is an analysis of the English Premier League in the 21-22 season.
+This repository includes my data analysis project "English Premier League 21/22". I have used a dataset from kaggle https://www.kaggle.com/datasets/xibilolu/epl21 . I only used up until the column : shtont, as this project is a bigger-level one and my first in the field of data analysis. I cleaned and organized the data, added extra columns, and then analyzed some interesting data. I also included ML Model, such as linear regression.  
